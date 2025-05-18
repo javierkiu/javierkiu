@@ -2,9 +2,9 @@
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## 🔎 Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [ 📇 Información personal](#información-personal)
+* [ 🚀 Proyectos](#proyectos)
+* [ 🎯 Intereses](#intereses)
 ## 📇 Información personal
 * **Nombre:** Javier Rodríguez
 * **Ocupación:** Estudiante/Desarrollador de páginas web y móviles
@@ -21,7 +21,6 @@ Página simple que simula una calculadora con secciones como figuras geométrica
 Esta página fue construida para poner en práctica conocimientos básicos de **JavaScript**, **HTML** y **CSS**.
 * **Enlace a la página:**  https://javierkiu.github.io/calculadoraJS/
 * **Enlace al repositorio:** https://github.com/javierkiu/calculadoraJS
-
 ### Catálogo de vehículos
 Aplicación que simula un sistema de compra/venta de vehículos, con secciones de favoritos y filtros de búsqueda. Esta aplicación fue construida totalmente con **Java** y **JavaFX**.
 * **Enlace al repositorio:** https://github.com/javierkiu/Proyecto_EstructuraDeDatos
