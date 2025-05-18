@@ -6,12 +6,16 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Javier Rodríguez
-* Ocupación: Estudiante/Desarrollador de páginas web y móviles
-* Lugar de residencia: Durán, Ecuador
-* Sitio web: https://github.com/javierkiu/javierkiu
+* **Nombre:** Javier Rodríguez
+* **Contacto:** jajorodr@espol.edu.ec
+* **Ocupación:** Estudiante/Desarrollador de páginas web y móviles
+* **Lugar de residencia:** Durán, Ecuador
+* **Github:** https://github.com/javierkiu/javierkiu
 ## Proyectos
-* https://github.com/javierkiu/javierkiu
+### Página Batabit 
+* https://javierkiu.github.io/batabit/
+### Calculadora simple
+* https://javierkiu.github.io/calculadoraJS/
 ## Intereses
 * Aprender sobre Docker
 * Adquirir conocimientos sobre JavaScript aplicado en backend
