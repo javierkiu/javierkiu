@@ -5,13 +5,13 @@ proyectos y mis intereses.
 * [ 📇 Información personal](#información-personal)
 * [ 🚀 Proyectos](#proyectos)
 * [ 🎯 Intereses](#intereses)
-## 📇 Información personal
+## 📇 Información personal <a name="información-personal"></a>
 * **Nombre:** Javier Rodríguez
 * **Ocupación:** Estudiante/Desarrollador de páginas web y móviles
 * **Lugar de residencia:** Durán, Ecuador
 * **Contacto:** jajorodr@espol.edu.ec
 * **Github:** https://github.com/javierkiu/javierkiu
-## 🚀 Proyectos
+## 🚀 Proyectos<a name="proyectos"></a>
 ### Página Batabit 
 Página que muestra las distintas conversiones de criptomonedas. Esta página es meramente de prueba para poner en práctica conocimientos de **HTML** y **CSS**.  
 * **Enlace a la página:** https://javierkiu.github.io/batabit/
@@ -25,7 +25,7 @@ Esta página fue construida para poner en práctica conocimientos básicos de **
 Aplicación que simula un sistema de compra/venta de vehículos, con secciones de favoritos y filtros de búsqueda. Esta aplicación fue construida totalmente con **Java** y **JavaFX**.
 * **Enlace al repositorio:** https://github.com/javierkiu/Proyecto_EstructuraDeDatos
 
-## 🎯 Intereses
+## 🎯 Intereses<a name="intereses"></a>
 * Adquirir conocimientos sobre JavaScript aplicado en backend
 * Aprender sobre Frameworks útiles para el desarrollo web
 * Aprender sobre Docker
